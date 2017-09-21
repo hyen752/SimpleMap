@@ -4,6 +4,26 @@
 <array>
 	<dict>
 		<key>lat</key>
+		<string>35.171167</string>
+		<key>long</key>
+		<string>129.069281</string>
+		<key>title</key>
+		<string>양정점 롯데리아</string>
+		<key>subTitle</key>
+		<string>밥은 여기서 먹을까?</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>35.172531</string>
+		<key>long</key>
+		<string>129.071164</string>
+		<key>title</key>
+		<string>양정역</string>
+		<key>subTitle</key>
+		<string>오늘도 등교...</string>
+	</dict>
+	<dict>
+		<key>lat</key>
 		<string>35.166197</string>
 		<key>long</key>
 		<string>129.072594</string>
@@ -96,7 +116,7 @@
 		<key>title</key>
 		<string>번개반점</string>
 		<key>subTitle</key>
-		<string>우리들의 짱께이집</string>
+		<string>맛이 그럭저럭한 짜장면집</string>
 	</dict>
 </array>
 </plist>
