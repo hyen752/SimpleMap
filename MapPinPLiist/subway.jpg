@@ -1,0 +1,1686 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true;IE=edge">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://terms.naver.com/entry.nhn?cid=40942&categoryId=32190&docId=3404385">
+<meta property="og:title" content="양정역">
+<meta property="og:image" content="http://dbscthumb.phinf.naver.net/2765_000_5/20170614205812410_F1HQGF03L.jpg/8191540.jpg?type=w450_fst">
+<meta property="og:description" content="부산광역시 도시철도 1호선 역.  부산 도시철도 1호선의 역으로 1985년 7월 19일 업무가 개시되었다. 역 번호는 121번이며 부산광역시 부산진구 중앙대로 지하930 양정교차로에 위치한다. 승강장 구조는 2면 2선식이며 역 출입구는 9곳에 설치되어 있다. 엘리베이트 4기가 설치되어 있고 자전거 보관소 2곳이 있다. 9번 출입구로 나가면 양정초등학교가 있으며 역 인근에는 주택가가 넓게 형성되어 있다.">
+<meta property="og:article:author" content="네이버 지식백과"/>
+<meta property="og:article:author:url" content="http://m.terms.naver.com"/>
+<meta name="viewport" content="width=1110" />
+
+<!--   http://terms.naver.com/ncrEntry.nhn?ncrDocId=1305210&dicId=doopedia -->
+<title>양정역</title>
+
+<link rel="stylesheet" type="text/css" href="http://static.naver.com/terms/tlist/css/tlist_add_card_151223.css?170920171745">
+<link rel="stylesheet" type="text/css" href="http://static.naver.net/terms/terms/css/terms_170920.css?170920171745">
+<link rel="stylesheet" type="text/css" href="http://static.naver.net/terms/terms/css/subject_tmp_170920.css?170920171745">
+<link rel="shortcut icon" href="/favicon/favicon.ico?170920171745" type="image/x-icon">
+
+
+
+<link rel="stylesheet" type="text/css" href="http://dict.tooltip.naver.com/tooltip/v1.3/css/dic_tooltip.css?170920171745">
+<link rel="stylesheet" type="text/css" href="/css/datalab.mobile.css?170920171745"/>
+<script type="text/javascript" src="http://static-g.rmcnmv.naver.net/resources/js/naver_web_player_delta_min.js?v=170920171745" charset="UTF-8"></script>
+
+</head>
+
+<body id="termBody" class="end">
+<script type="text/javascript">
+	document.domain = "naver.com";
+</script>
+<div id="wrap" class="">
+	<div id="u_skip">
+		<a href="#gnb" onclick="document.getElementById('gnb').tabIndex=-1;document.getElementById('gnb').focus();return false;"><span>메인 메뉴로 바로가기</span></a>
+		<a href="#nav" onclick="document.getElementById('nav').tabIndex=-1;document.getElementById('nav').focus();return false;"><span>주제분류 메뉴로 바로가기</span></a>
+		<a href="#content" onclick="document.getElementById('content').tabIndex=-1;document.getElementById('content').focus();return false;"><span>본문으로 바로가기</span></a>
+	</div>
+	<div id="header" role="banner">
+		<div class="gnb_wrap">
+	<div class="gnb_area">
+		<div class="site_area">
+			<ul class="site_list">
+				<li><a href="/" class="logo_terms"><span class="blind">지식백과</span></a><!-- N=a:rsv.terms --></li>
+				<li><a href="http://openlectures.naver.com/" class="logo_openlectures" target="_blank"><span class="blind">열린연단</span></a><!-- N=a:rsv.openlt --></li>
+				<li><a href="http://dic.naver.com/" class="logo_dic" target="_blank"><span class="blind">사전</span></a><!-- N=a:rsv.dic --></li>
+			</ul>
+
+			<div id="gnb" class="login_area">
+				<script type="text/javascript" charset="utf-8" src="http://static.gn.naver.net/template/gnb_utf8.nhn?2017092115"></script>
+				<script type="text/javascript">gnb_brightness=3;window.attachEvent?window.attachEvent("onload",getGNB):window.addEventListener("load",getGNB,false);</script>
+			</div>
+		</div>
+	</div>
+
+	<div id="nav" class="header_area">
+		<h1 class="service">
+			<a href="http://www.naver.com/" class="logo_naver"><span class="blind">NAVER</span></a><!-- N=a:STA.naverlogo -->
+			<a href="/" class="logo_terms"><span class="blind">지식백과</span></a><!-- N=a:STA.terms -->
+		</h1>
+		<div class="search_wrap">
+	<form name="search" action="/search.nhn" method="get" id="terms_search_form">
+		<fieldset>
+			<legend>지식백과 검색</legend>
+			<div class="search_area">
+				<div class="search_box">
+					<input name="query" type="text" value="" src="reatcmp.jsp" maxlength="100" title="검색" accesskey="s" class="search_input" id="term_query">
+					<a href="#" role="button" id="nautocomplete" class="btn_updn">
+						<i class="icon"></i>
+						<span class="blind" id="nautocompleteText">자동완성 펼치기</span>
+					</a>
+	
+					<!-- 자동완성 -->
+					<div class="ly_auto" style="">
+                         <iframe width="100%" frameborder="0" scrolling="no" src="" title="자동완성" class="ifr_reset" id="autoFrame"></iframe>
+                     </div>
+	                 <!-- //자동완성 -->
+				</div>
+				<input type="submit" value="검색" class="btn_search" onclick="clickcr(this, 'sch.search', '', '', event);">
+				<input type="hidden" name="searchType" value="">
+				<input type="hidden" name="dicType" value="">
+				<input type="hidden" name="subject" value="">
+				<input type="button" value="통합검색" class="btn_search_all" onclick="clickcr(this, 'sch.nx', '', '', event); window.open('http://search.naver.com/search.naver?where=nexearch&sm=sta_hty.terms&ie=utf8&query=' + encodeURIComponent(document.getElementById('term_query').value)); return false;">					
+			</div>
+		</fieldset>
+	</form>
+</div>
+<div class="category_wrap" id="categoryWrap">
+	<a href="#" role="button" class="btn_category" id="evt-global-navigation-button" onclick="clickcr(this, 'STA.category', '', '', event);"><span class="blind">카테고리 보기</span></a>
+	<div class="ly_category">
+	<div class="category_area">
+		<div class="section dic">
+			<strong class="title">백과 카테고리</strong>
+			<ul class="category_list">
+				<li class="category_item"><a href="/list.nhn?cid=40942&categoryId=40942" onclick="clickcr(this, 'mnu.sbjlist', '40942', '', event);">두산백과</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=44621&categoryId=44621" onclick="clickcr(this, 'mnu.sbjlist', '44621', '', event);">한국민족문화대백과</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=58737&categoryId=58737" onclick="clickcr(this, 'mnu.sbjlist', '58737', '', event);">네이버캐스트</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=58276&categoryId=58276" onclick="clickcr(this, 'mnu.sbjlist', '58276', '', event);">한국 대중가요 앨범6000</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=44622&categoryId=44622" onclick="clickcr(this, 'mnu.sbjlist', '44622', '', event);">동물/식물</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=44623&categoryId=44623" onclick="clickcr(this, 'mnu.sbjlist', '44623', '', event);">미술작품</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=48677&categoryId=48677" onclick="clickcr(this, 'mnu.sbjlist', '48677', '', event);">비주얼사전</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=44625&categoryId=44625" onclick="clickcr(this, 'mnu.sbjlist', '44625', '', event);">어린이백과</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=44626&categoryId=44626" onclick="clickcr(this, 'mnu.sbjlist', '44626', '', event);">학생백과</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=50871&categoryId=50871" onclick="clickcr(this, 'mnu.sbjlist', '50871', '', event);">건강백과</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=51613&categoryId=51613" onclick="clickcr(this, 'mnu.sbjlist', '51613', '', event);">동영상백과</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=51792&categoryId=51792" onclick="clickcr(this, 'mnu.sbjlist', '51792', '', event);">한국향토문화전자대전</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=49190&categoryId=49190" onclick="clickcr(this, 'mnu.sbjlist', '49190', '', event);">문화원형백과</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=44630&categoryId=44630" onclick="clickcr(this, 'mnu.sbjlist', '44630', '', event);">음식백과</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=42170&categoryId=42170" onclick="clickcr(this, 'mnu.sbjlist', '42170', '', event);">미디어백과</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=44410&categoryId=44410" onclick="clickcr(this, 'mnu.sbjlist', '44410', '', event);">학문명백과</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=42007&categoryId=42007" onclick="clickcr(this, 'mnu.sbjlist', '42007', '', event);">한국민속대백과사전</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=51265&categoryId=51265" onclick="clickcr(this, 'mnu.sbjlist', '51265', '', event);">공유마당</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=49401&categoryId=49401" onclick="clickcr(this, 'mnu.sbjlist', '49401', '', event);">역사기록물</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=44634&categoryId=44634" onclick="clickcr(this, 'mnu.sbjlist', '44634', '', event);">코트라(KOTRA) 국가정보</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=49801&categoryId=49801" onclick="clickcr(this, 'mnu.sbjlist', '49801', '', event);">유네스코 유산</a></li>
+				<li class="category_item"><a href="/list.nhn?cid=57623&categoryId=57623" onclick="clickcr(this, 'mnu.sbjlist', '57623', '', event);">조선향토대백과</a></li>
+				</ul>
+		</div>
+		<div class="section subject">
+		<strong class="title">주제별 카테고리</strong>
+		<ul class="category_list">
+			<li class="category_item"><a href="/list.nhn?cid=41697&categoryId=41697" onclick="clickcr(this, 'mnu.sbjlist', '41697', '', event);">인문과학</a></li>
+			<li class="category_item"><a href="/list.nhn?cid=41698&categoryId=41698" onclick="clickcr(this, 'mnu.sbjlist', '41698', '', event);">사회과학</a></li>
+			<li class="category_item"><a href="/list.nhn?cid=41699&categoryId=41699" onclick="clickcr(this, 'mnu.sbjlist', '41699', '', event);">기술/공학</a></li>
+			<li class="category_item"><a href="/list.nhn?cid=41700&categoryId=41700" onclick="clickcr(this, 'mnu.sbjlist', '41700', '', event);">자연과학</a></li>
+			<li class="category_item"><a href="/list.nhn?cid=41701&categoryId=41701" onclick="clickcr(this, 'mnu.sbjlist', '41701', '', event);">문화예술</a></li>
+			<li class="category_item"><a href="/list.nhn?cid=41702&categoryId=41702" onclick="clickcr(this, 'mnu.sbjlist', '41702', '', event);">생활/취미/스포츠</a></li>
+			<li class="category_item"><a href="/list.nhn?cid=41703&categoryId=41703" onclick="clickcr(this, 'mnu.sbjlist', '41703', '', event);">역사/문화</a></li>
+			<li class="category_item"><a href="/list.nhn?cid=41704&categoryId=41704" onclick="clickcr(this, 'mnu.sbjlist', '41704', '', event);">기관/단체</a></li>
+			<li class="category_item"><a href="/list.nhn?cid=43702&categoryId=43702" onclick="clickcr(this, 'mnu.sbjlist', '43702', '', event);">지역/국가</a></li>
+			<li class="category_item"><a href="/list.nhn?cid=41706&categoryId=41706" onclick="clickcr(this, 'mnu.sbjlist', '41706', '', event);">시사/상식/종합</a></li>
+			<li class="category_item"><a href="/list.nhn?cid=50280&categoryId=50280" onclick="clickcr(this, 'mnu.sbjlist', '50280', '', event);">용어해설</a></li>
+			<li class="category_item"><a href="/list.nhn?cid=50279&categoryId=50279" onclick="clickcr(this, 'mnu.sbjlist', '50279', '', event);">참여이미지</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="tlist_area" id="tlist_util_box">
+		<p class="desc">
+			<strong class="title"><a href="/tlist" onclick="clickcr(this, 'mnu*k.main', '', '', event);">지식리스트<i class="ico_beta"><span class="blind">Beta</span></i></a></strong>유용한 지식리스트를 만들어 지식백과 사용자들과 공유해보세요!
+		</p>
+		<ul class="tlist_list">
+		<li class="tlist_item">
+			<a href="/tlist/?type=my" onclick="clickcr(this, 'mnu*k.curate', '', '', event);">만든리스트
+				<em class="count __MY_CNT">999</em><i class="ico_arrow"></i>
+			</a>
+		</li>
+		<li class="tlist_item">
+			<a href="/tlist/?type=join" onclick="clickcr(this, 'mnu*k.join', '', '', event);">참여한 리스트
+				<em class="count __JOIN_CNT">999</em><i class="ico_arrow"></i>
+			</a>
+		</li>
+		<li class="tlist_item">
+			<a href="/tlist/?type=like" onclick="clickcr(this, 'mnu*k.like', '', '', event);">좋아요 리스트
+				<em class="count __LIKE_CNT">999</em><i class="ico_arrow"></i>
+			</a>
+		</li>
+		<li class="tlist_item">
+			<a href="/tlist/?type=history" onclick="clickcr(this, 'mnu*k.read', '', '', event);">최근에 본 리스트
+				<em class="count __HISTORY_CNT">999</em><i class="ico_arrow"></i>
+			</a>
+		</li>	
+		</ul>
+	</div>
+	<a href="#" role="button" class="btn_close" onclick="clickcr(this, 'mnu.close', '', '', event);"><span class="blind">카테고리 레이어 닫기</span></a>
+</div>
+</div>
+</div>
+</div><div class="headword_wrap">
+	<div class="headword_area">
+		<div class="headword_info">
+			<h2 class="title">
+<a href="/list.nhn?cid=40942&categoryId=40942">
+	<span>&#46160;&#49328;&#48177;&#44284;</span></a><!-- N=a:sca.sctitle -->
+<a href="http://www.doopedia.co.kr" target="_blank"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://static.naver.net/terms/terms/img/logo_doopedia.png" height="17" alt="doopedia 로고" class="v_middle"></a><!-- N=a:sca.sctlogo -->
+</h2>
+</div>
+		<div class="notice_area">
+			<strong class="notice_title"><span class="blind">신규사전</span></strong>
+			<ul class="notice_list">
+				<li class="notice_item"><a href="/list.nhn?categoryId=59576">3세 아이에게 꼭 해줘야 할 49가지</a><!-- N=a:rec.source --></li>
+			</ul>
+		</div>
+		</div>
+</div>
+</div>
+	<hr>
+
+	<div id="container">
+		
+	<div id="content">
+		<div class="cont_util_wrap">
+			<div class="view_type_area">
+				</div>
+
+			<div class="cont_util_area">
+				<ul class="util_list">
+					<li class="util_item">
+						<a href="#" role="button" class="btn_add __TLIST_PUT" data-servicecode="TERMS" data-contentsid="3404385" onclick="clickcr(this, 'toa.klstadd', '', '', event);">담기</a>
+					</li>
+					<li class="util_item">
+						<a href="#" role="button" class="naver-splugin" data-style="unity-v2" data-url="" data-title="양정역" data-me-display="off" data-blog-source-form="2" data-cafe-source-form="2" title="보내기" onclick="clickcr(this, 'toa.share', '', '', event);">공유하기</a>
+					</li>
+					<li class="util_item">
+						<a href="/claim.nhn?docId=3404385&amp;serviceName=terms" onclick="clickcr(this, 'toa.topmod', '', '', event);window.open('/claim.nhn?docId=3404385&serviceName=terms', '', 'width=980, height=810, location=no, status=no, toolbar=0, menubar=no, resizable=no, scrollbars=yes'); return false;" target="_blank">수정문의</a>
+					</li>
+					<li class="util_item">
+						<a href="#" role="button" onclick="clickcr(this, 'toa.toppri', '', '', event);window.open('/print.nhn?docId=3404385&amp;categoryId=32190', '', 'width=788, height=600, toolbar=0, menubar=no, resizable=no, scrollbars=yes'); return false;">인쇄</a>
+					</li>
+					</ul>
+
+				<div class="font_area" id="btn_fs">
+					<a href="#" role="button" class="btn font" id="font_set">글꼴</a>	
+					<div class="ly_font_list" id="fontset_area">
+						<a href="#" data-class="font1" onclick="return false;">나눔고딕</a>
+						<a href="#" data-class="font2" onclick="return false;">맑은고딕</a>
+						<a href="#" data-class="font3" onclick="return false;">돋움체</a>
+					</div>
+					<a href="#" role="button" class="btn sm __fontBtn" onclick="return false;"><span class="blind">글꼴 작게</span></a>
+					<a href="#" role="button" class="btn big __fontBtn" onclick="return false;"><span class="blind">글꼴 크게</span></a>
+				</div>
+				</div>	
+		</div>
+		
+<!-- 		<div class="btn_top"> -->
+<!-- 			<div class="btn_top_util"> -->
+<!-- 				<span class="font_size" id="btn_fs"> -->
+<!-- 				</span> -->
+<!-- 			</div> -->
+<!-- 		</div> -->
+
+		<div class="section_wrap ">
+			<div class="headword_title">
+				<p class="cite">두산백과</p>
+				<h2 class="headword">양정역</h2>
+					<p class="word">
+				[楊亭驛 ]</p></div>
+
+			<div id="size_ct" class="size_ct_v2">
+				<dl class="summary_area">
+					<i class="ico"><span class="blind">요약</span></i>
+					부산광역시 도시철도 1호선 역.&nbsp;</dl>
+				<script type="text/javascript" src="http://audioapi.nmv.naver.com/resources/js/flashObject.js?170920171745"></script>
+				<script type="text/javascript">
+					var currentPlayer;
+					var wT = document.title;
+					function setCurrentPlayer(_id) {
+						if (currentPlayer != undefined && currentPlayer != _id) {
+							var player = nhn.FlashObject.find(currentPlayer);
+							player.stopSound();
+						}
+						currentPlayer = _id;
+						document.title = wT;
+					}
+					
+					function flashClick() {
+						document.title = wT;
+					}
+					window.onload = function() {
+						document.title = wT;
+					}
+				</script>
+
+				<div class="img_type"><div class="thmb thmb_border"><span class="img_box" style="width:250px;"><a href="/imageDetail.nhn?docId=3404385&imageUrl=http%3A%2F%2Fdbscthumb.phinf.naver.net%2F2765_000_5%2F20170614205812410_F1HQGF03L.jpg%2F8191540.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN" target="_blank" onclick="clickcr(this, 'bdy.imgal', '', '', event);"><img id="innerImage0" class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614205812410_F1HQGF03L.jpg/8191540.jpg?type=m250&wm=N" width="250" height="167" alt="양정역" origin_src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614205812410_F1HQGF03L.jpg/8191540.jpg?type=m4500_4500_fst&wm=N" origin_width="1920" origin_height="1284" desc="" source="doopedia.co.kr" type="OUTSIDE" origin_service_src_pc="" isrep="true" data-title="양정역" oncontextmenu=""></a>
+<div class="enlarge"><a href="/imageDetail.nhn?docId=3404385&imageUrl=http%3A%2F%2Fdbscthumb.phinf.naver.net%2F2765_000_5%2F20170614205812410_F1HQGF03L.jpg%2F8191540.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN" target="_blank" onclick="clickcr(this, 'bdy.imgal', '', '', event);" class="enlarge_button">이미지 크게보기</a></div><p class="thmb_desc" style="">
+<strong>양정역</strong></p>
+</span></div>
+					</div><p class="txt">부산 도시철도 1호선의 역으로 1985년 7월 19일 업무가 개시되었다. 역 번호는 121번이며 부산광역시 <a href="/entry.nhn?docId=1103865&ref=y" onclick="clickcr(this, 'bdk.creference', '', '', event);">부산진구</a> 중앙대로 지하930 양정교차로에 위치한다. 승강장 구조는 2면 2선식이며 역 출입구는 9곳에 설치되어 있다. 엘리베이트 4기가 설치되어 있고 자전거 보관소 2곳이 있다.&nbsp;9번 출입구로 나가면 <a href="/entry.nhn?docId=1172332&ref=y" onclick="clickcr(this, 'bdk.creference', '', '', event);">양정초등학교</a>가 있으며 역 인근에는 주택가가 넓게 형성되어 있다.</p></div>
+			<div class="section_group">
+				<div class="section_area">
+					<h3 class="title">카테고리</h3>
+					<ul class="ref_list">
+					<li class="ref_item">
+							<a href="/list.nhn?categoryId=32183">교통·통신</a> &gt;<a href="/list.nhn?categoryId=32184">교통</a> &gt;<a href="/list.nhn?categoryId=32187">교통시설</a> &gt;<a href="/list.nhn?categoryId=32190">터미널및역</a> </li>
+					</ul>
+				</div>
+				<div class="box_media box_img">
+					<h3 id="__relatedImage" class="title">관련이미지 <em>16</em></h3>
+					<div class="box_lst">
+						<a id="relatedImagesPrev" href="#" class="prev" onclick="return false"><span class="blind">이미지목록 이전</span></a>
+						<div class="box_slid">
+							<div id="relatedImagesUlHidden" style="display:none"></div>
+							<ul id="relatedImagesUl" class="lst_media">
+							<li class="on">
+								<a href="#relatedImage0" data-index="0" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614234114012_QM7GE0P8T.jpg/8659362.jpg?type=r100&wm=N" width="80" height="53" alt="부산지하철 1호선 양정역 "><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li >
+								<a href="#relatedImage1" data-index="1" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614234047552_DB3H2PYHT.jpg/8659361.jpg?type=r100&wm=N" width="80" height="53" alt="부산지하철 1호선 양정역 "><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li >
+								<a href="#relatedImage2" data-index="2" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614234045172_T8X8LUXHH.jpg/8659360.jpg?type=r100&wm=N" width="80" height="53" alt="부산지하철 1호선 양정역 "><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li >
+								<a href="#relatedImage3" data-index="3" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614234042965_5WH60X94Q.jpg/8659357.jpg?type=r100&wm=N" width="80" height="53" alt="부산지하철 1호선 양정역 "><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li >
+								<a href="#relatedImage4" data-index="4" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614234035952_J3DBTBBNF.jpg/8659352.jpg?type=r100&wm=N" width="80" height="53" alt="부산지하철 1호선 양정역 "><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li >
+								<a href="#relatedImage5" data-index="5" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614234217438_4U4Y0EDYR.jpg/8659369.jpg?type=r100&wm=N" width="80" height="53" alt="부산지하철 1호선 양정역 "><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li >
+								<a href="#relatedImage6" data-index="6" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614205816507_TQPY0VJOA.jpg/8191542.jpg?type=r100&wm=N" width="80" height="53" alt="양정역"><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li >
+								<a href="#relatedImage7" data-index="7" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614205818280_ES8M3XAWN.jpg/8191543.jpg?type=r100&wm=N" width="80" height="53" alt="양정역"><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li >
+								<a href="#relatedImage8" data-index="8" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614205903172_HEDUD0L8U.jpg/8191545.jpg?type=r100&wm=N" width="80" height="53" alt="양정역"><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li >
+								<a href="#relatedImage9" data-index="9" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614234217262_XHATIUC8W.jpg/8659368.jpg?type=r100&wm=N" width="80" height="53" alt="부산지하철 1호선 양정역 "><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li >
+								<a href="#relatedImage10" data-index="10" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614205903181_IDOGBDH8J.jpg/8191555.jpg?type=r100&wm=N" width="80" height="53" alt="양정역"><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li >
+								<a href="#relatedImage11" data-index="11" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614234116569_BKYJCTS38.jpg/8659363.jpg?type=r100&wm=N" width="80" height="53" alt="부산지하철 1호선 양정역 "><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li >
+								<a href="#relatedImage12" data-index="12" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614234118857_GPN0MMBHK.jpg/8659364.jpg?type=r100&wm=N" width="80" height="53" alt="부산지하철 1호선 양정역 "><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li >
+								<a href="#relatedImage13" data-index="13" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614234146782_ME2N7TX47.jpg/8659365.jpg?type=r100&wm=N" width="80" height="53" alt="부산지하철 1호선 양정역 "><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li >
+								<a href="#relatedImage14" data-index="14" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614234204469_7QPTWUOCR.jpg/8659366.jpg?type=r100&wm=N" width="80" height="53" alt="부산지하철 1호선 양정역 "><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li >
+								<a href="#relatedImage15" data-index="15" class="relatedImageLink"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614234207087_L562NARBS.jpg/8659367.jpg?type=r100&wm=N" width="80" height="53" alt="부산지하철 1호선 양정역 "><span class="mask"></span><span class="v"></span></a>
+							</li>
+							<li class="empty_thumbnail"></li><li class="empty_thumbnail"></li><li class="empty_thumbnail"></li><li class="empty_thumbnail"></li><li class="empty_thumbnail"></li></ul>
+						</div>
+						<a id="relatedImagesNext" href="#relatedImagesNext" class="next"><span class="blind">이미지목록 다음</span></a>
+						</div>
+					<div id="relatedImageView" class="box_bigimg">
+						<a id="relatedImageViewPrev" href="#" class="prev"><span class="blind">이미지 이전</span></a>
+						<div class="bigthmb">
+							<img id="relatedImageViewImg" class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dbscthumb.phinf.naver.net/2765_000_5/20170614234114012_QM7GE0P8T.jpg/8659362.jpg?type=m4500_4500_fst&wm=N" width="599" height="398" alt="부산지하철 1호선 양정역 "><span class="v"></span>
+						</div>
+						<p>
+							<strong id="relatedImageViewTitle">부산지하철 1호선 양정역</strong>
+							<span class="mline"><span id="relatedImageViewDesc" style="">부산광역시 도시철도 1호선 역.</span></span>
+							<p style="text-align:center;padding: 0;"><a href="/imageDetail.nhn?docId=3404385&imageUrl=http%3A%2F%2Fdbscthumb.phinf.naver.net%2F2765_000_5%2F20170614234114012_QM7GE0P8T.jpg%2F8659362.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&mode=entry" id="relatedImageViewOriginal" class="view_pic image_viewer_link" target="_blank" onclick="clickcr(this, /terms\.naver\.com\/imageDetail.nhn\?/.test(this.href) ? 'rim.imgal' : 'rim.outimg', '', '', event);">이미지 갤러리</a></p>
+							<p style="padding:0"><span id="relatedImageViewCopyright" class="copy">출처: doopedia.co.kr</span></p>
+						</p>
+						<span class="btn_page"><span id="relatedImageViewNumber" class="num_on">1</span>/<span class="num_total">16</span></span>
+						<a id="relatedImageViewNext" href="#" class="next"><span class="blind">이미지 다음</span></a>
+						</div>
+					<p class="copy_alert">위 이미지에 대한 권리는 출처사이트 게시자에게 있으며, 이를 무단 사용할 경우 법적 책임을 질 수 있습니다.</p>
+				</div>
+				</div>
+			<div class="section_group cite_group">
+				<div class="section_area">
+						<h3 class="title">출처</h3>
+<div class="cite_area_wrap  active">
+	<h3 class="blind">제공처 정보</h3>
+	<div class="cite_area">
+		<div class="cite_info">
+			<strong class="title">두산백과</strong>
+			
+			<a href="http://www.doopedia.co.kr" target="_blank" onclick="clickcr(this, 'soc.logo', '', '', event);"><img src="http://dbscthumb.phinf.naver.net/0566_000_1/20131016154228795_0CINUKGWR.gif/dpedia.gif?type=m1500" height="20" alt="두산백과"></a><a href="http://www.doopedia.co.kr" class="url_link" target="_blank" onclick="clickcr(this, 'soc.url', '', '', event);">http://www.doopedia.co.kr</a></div>
+		</div>
+	<div class="writer_area">
+		<ul class="writer_list">
+			</ul>
+	</div>
+	</div>
+</div>
+					<p class="cite_desc"><i class="ico_info"></i>두산백과의 저작권은 doopedia(두산백과)에 있습니다.<br>저작권법의 보호를 받는 저작물로 무단 전재 및 복제를 금하고 있습니다. <a target="_blank" href="http://www.doopedia.co.kr/common/board/board.do?_method=detail&cd=01&idx=101019000000186" onclick="clickcr(this, 'rfd.copyright', '', '', event);">저작물 이용허락 문의하기</a></p>
+				<div class="like_area" style="clear:both">
+				<div class="likeit">
+					<!-- 공통 좋아요 영역 -->
+					<div class="u_likeit_list_module" id="likeBtn">
+						<a href="#" class="u_likeit_list_btn u_type_round" data-sid="ENCYCLOPEDIA" data-dic="ENCYCLOPEDIA" data-cid="3404385" data-likeit="0"></a>
+					</div>
+					</div>
+				<a href="#" class="btn_add __TLIST_PUT" data-servicecode="TERMS" data-contentsid="3404385" onclick="clickcr(this, 'kad.klstadd', '', '',event);">담기</a>
+			</div>
+			<div class="sns_area">
+				<div id="spiLayer1">
+					<div class="naver-splugin" data-style="standard"
+						data-url=""
+						data-source-name="두산백과"
+						data-blog-source-form="2" 
+						data-cafe-source-form="2" 
+						data-title="양정역"
+						data-me-display="off"
+						title="보내기">
+					</div>
+				</div>
+				<div class="print_type">
+					<a href="/print.nhn?docId=3404385&amp;categoryId=32190" target="_blank" onclick="clickcr(this, 'pri.print', '', '',event); window.open(this.href, '', 'width=788, height=600, toolbar=0, menubar=no, resizable=no, scrollbars=yes'); return false;" class="btn_print">
+						<span class="blind">인쇄</span>
+					</a>
+				</div>
+			</div>
+			
+<!-- 			<div id="relatedContentsSection" class="tmp_dic2_wrap"> -->
+			
+				<!-- 				<div id="relatedPerson" class="tmp_dic4" style="display:none"> -->
+<!-- 				</div> -->
+				<!-- 				<div id="searchKin" class="tmp_kin" style="display:none"> -->
+<!-- 				</div> -->
+				<!-- 			</div> -->
+
+<!-- 			<div class="tmp_dic3"> -->
+<!-- 				<ol> -->
+<!-- 				</ol> -->
+<!-- 				<ol> -->
+<!-- 				</ol> -->
+<!-- 			</div> -->
+</div>
+		</div> <div class="sub_cont_wrap">
+			<div class="info_tmp_wrap" id="graphDataArea" style="display:none">
+			</div>
+	
+			<div class="info_tmp_wrap" id="sameMeaningTerms" style="display:none">
+			</div>
+			<div class="info_tmp_wrap" id="searchImage" style="display:none">
+			</div>
+			<div class="info_tmp_wrap" id="suggestThemeList" style="display:none">
+			</div>
+			<div id="searchAcademic" class="info_tmp_wrap" style="display:none">
+			</div>
+			<div class="banner_tmp_wrap">
+                <a class="link_kin" href="http://kin.naver.com/qna/question.nhn?serviceId=terms&enc=utf8&sourceUrl=http://terms.naver.com/entry.nhn?docId=3404385&title=%EC%96%91%EC%A0%95%EC%97%AD" onclick="clickcr(this, 'bob.kinask', '', '', event);">
+                    <span class="blind">궁금한 점이 있다면 지식iN에 물어보세요! 질문하러 가기</span>
+                </a>
+                <a class="link_tlist __TLIST_CREATE" href="#" data-servicecode="TERMS" onclick="clickcr(this, 'bob.knlmake', '', '', event);">
+                    <span class="blind">관심있는 글을 모아 지식리스트로 만들어보세요! 지식리스트 만들러 가기</span>
+                </a>
+	        </div>
+			<div class="u_cbox_wrap">
+				<div id="comment_module" class="u_cbox"></div>
+				</div>
+		</div>
+	</div>
+		
+	<div class="aside" id="asideWrap" role="complementary">
+	<!-- 		<div class="lst_area3 relative"> -->
+<!-- 			<ul id="listArea"> -->
+<!-- 				<li> -->
+<!-- 				</li> -->
+<!-- 			</ul> -->
+<!-- 		</div> -->
+<div class="section related">
+		<h3 class="section_title">
+			'<span class="text">양정역</span>' 비슷한 글
+			</h3>
+
+		<ul class="section_list">
+			<li class="section_item">
+				<div class="desc">
+					<a href="https://en.wikipedia.org/wiki/Yangjeong_Station_(Busan)" target="_blank" onclick="clickcr(this, 'sim.title', '', '', event);">Yangjeong Station (Busan)</a>
+					<em class="cite">위키백과</em>
+				</div>
+			</li>
+			<li class="section_item">
+				<div class="desc">
+					<a href="https://ko.wikipedia.org/wiki/%EC%96%91%EC%A0%95%EC%97%AD_(%EB%B6%80%EC%82%B0)" target="_blank" onclick="clickcr(this, 'sim.title', '', '', event);">양정역 (부산)</a>
+					<em class="cite">위키백과</em>
+				</div>
+			</li>
+			</ul>
+	</div>
+	<div class="section">
+		<h3 class="section_title">
+			'<span class="text">양정역</span>' 다른 뜻
+			<em class="count">3</em>
+			</h3>
+		<ul class="section_list" id="listArea">
+			<li class="section_item selected">
+				<div class="desc">
+				<a href="/entry.nhn?docId=3404385" onclick="clickcr(this, 'mxt.meaning', '', '', event);">부산광역시 도시철도 1호선 역</a>
+						</div>
+			</li>
+			<li class="section_item">
+				<div class="desc">
+				<a href="/alikeMeaning.nhn?query=E00273383" onclick="clickcr(this, 'mxt.meaning', '', '', event);">경기도 남양주시에 있는 수도권 전철 중앙선의 역</a>
+				</div>
+			</li>
+			<li class="section_item">
+				<div class="desc">
+				<a href="/alikeMeaning.nhn?query=E00256959" onclick="clickcr(this, 'mxt.meaning', '', '', event);">경상북도 상주시에 있는 기차역</a>
+				</div>
+			</li>
+			</ul>
+		</div>
+	<div class="section">
+		<h3 class="section_title">함께 많이 본 표제어</h3>
+		<ul class="section_list" id="countControlByHeight">
+		<li class="section_item">
+				<div class="thumb_area">
+					<div class="thumb">
+						<a href="/entry.nhn?docId=2797879" onclick="markFrom('associate');clickcr(this, 'rts.title', '', '', event);"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dthumb.phinf.naver.net/?src=%22http%3A%2F%2Fdbscthumb.phinf.naver.net%2F3920_000_1%2F20150528105719465_UAAEPADSU.jpg%2Fda11_108_i1.jpg%3Ftype%3Dw450_fst_n%22&twidth=56&theight=40&opts=17" alt="양정역"><span class="mask"></span></a>
+					</div>
+				</div>
+				<div class="desc">
+					<a href="/entry.nhn?docId=2797879" onclick="markFrom('associate');clickcr(this, 'rts.title', '', '', event);">양정역 [養正驛]</a>
+					<em class="cite"><a href="/list.nhn?categoryId=55631">철도역 정보</a></em>
+				</div>
+			</li>
+		</ul>
+	</div>
+	<div class="section">
+		<h3 class="section_title">터미널및역<a href="/list.nhn?cid=32190&categoryId=32190" class="more_link" onclick="clickcr(this, 'ctl.more', '', '', event);">전체보기</a>
+			</h3>
+		<ul class="section_list">
+			<li class="section_item">
+				<div class="desc">
+					<a href="/entry.nhn?docId=3404378&categoryId=32190&contentsParamInfo=isList%3Dtrue%26navCategoryId%3D32190" onclick="markFrom('rel');clickcr(this, 'ctl.title', '', '', event);">부산역 [釜山驛]</a>
+					<em class="cite"><a href="/list.nhn?categoryId=32190">두산백과</a></em>
+				</div>
+			</li>
+			<li class="section_item selected">
+				<div class="thumb_area">
+					<div class="thumb">
+						<a href="/entry.nhn?docId=3404385&categoryId=32190&contentsParamInfo=isList%3Dtrue%26navCategoryId%3D32190" onclick="markFrom('rel');clickcr(this, 'ctl.title', '', '', event);"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dthumb.phinf.naver.net/?src=%22http%3A%2F%2Fdbscthumb.phinf.naver.net%2F2765_000_5%2F20170614205812410_F1HQGF03L.jpg%2F8191540.jpg%3Ftype%3Dw450_fst%22&twidth=56&theight=40&opts=17" alt="양정역"><span class="mask"></span></a>
+					</div>
+				</div>
+				<div class="desc">
+					<a href="/entry.nhn?docId=3404385&categoryId=32190&contentsParamInfo=isList%3Dtrue%26navCategoryId%3D32190" onclick="markFrom('rel');clickcr(this, 'ctl.title', '', '', event);">양정역 [楊亭驛]</a>
+					<em class="cite"><a href="/list.nhn?categoryId=32190">두산백과</a></em>
+				</div>
+			</li>
+
+			<li class="section_item">
+				<div class="thumb_area">
+					<div class="thumb">
+						<a href="/entry.nhn?docId=3404396&categoryId=32190&contentsParamInfo=isList%3Dtrue%26navCategoryId%3D32190" onclick="markFrom('rel');clickcr(this, 'ctl.title', '', '', event);"><img class="lazyLoadImage" src="http://static.naver.net/terms/terms/img/e.gif" data-src="http://dthumb.phinf.naver.net/?src=%22http%3A%2F%2Fdbscthumb.phinf.naver.net%2F2765_000_3%2F20170329224657533_F3FVB0SOI.jpg%2F8191378.jpg%3Ftype%3Dw450_fst%22&twidth=56&theight=40&opts=17" alt="범어사역"><span class="mask"></span></a>
+					</div>
+				</div>
+				<div class="desc">
+					<a href="/entry.nhn?docId=3404396&categoryId=32190&contentsParamInfo=isList%3Dtrue%26navCategoryId%3D32190" onclick="markFrom('rel');clickcr(this, 'ctl.title', '', '', event);">범어사역 [梵魚寺驛]</a>
+					<em class="cite"><a href="/list.nhn?categoryId=32190">두산백과</a></em>
+				</div>
+			</li>
+			</ul>
+	</div>
+	<div class="banner">
+	<a href="/list.nhn?cid=58276&categoryId=58276" onclick="clickcr(this, 'reb.banner', 'pop_album_6000_A', '', event);"><img src="http://static.naver.net/terms/terms/banner_img/music.png" width="280" height="92"  alt="1920~80년대 대중가요 변천사를 한눈에! 한국 대중가요 앨범 6000"><span class="mask"></span></a>
+	</div>
+		
+</div>
+<a href="#" id="goto_top" class="goto_top btn_top" onclick="window.scrollTo(0,0);clickcr(this, 'bdr.top', '', '', event);return false"><span class="blind">위로가기</span></a><div id="nanum_dimmed_layer" class="dimmed" style="display:none;height:1000px;"></div>
+	<div style="left:35%;top:50px;display:none;" class="nanum_popup" id="layer_nanum_guide">
+		<div class="nanum_popup_in">
+			<div class="cnt">
+			<span class="ques"></span>
+			<h4>나눔글꼴 설치 안내</h4>
+			<p>네이버 검색결과를 나눔글꼴로 보기 위해서는<br><span>&nbsp;나눔글꼴을 설치</span>해야 합니다.<br>나눔글꼴을 설치하시겠습니까?</p>
+	
+			<input type="image" alt="설치" class="nanum_inst" onclick="clickcr(this, 'fon_dft.popupinstall', '', '',event); nanum.Core.install(nanum.Service.hideNanumGuide);" value="설치" name="" src="http://static.naver.net/terms/img/btn_setup.gif">
+	        <input type="image" alt="취소" onclick="clickcr(this, 'fon_dft.popupcancel', '', '',event); nanum.Core.cancel(nanum.Service.hideNanumGuide);" value="취소" name="" src="http://static.naver.net/terms/img/btn_cancel.gif">
+			</div>
+			<div class="txt_notice">
+			<p>개인 및 기업을 포함, 모든 사용자가 무료로 사용 가능합니다.</p>
+			<a href="https://help.naver.com/support/contents/contents.nhn?serviceNo=1074&categoryNo=3497" onClick="clickcr(this, 'fon_dft.popuplicense', '', '', event);" target="_blank">나눔글꼴 라이센스 전문보기</a></div>
+			<span class="btn_cl"><button title="레이어 닫기" onclick="clickcr(this, 'fon_dft.popupcancel', '', '',event); nanum.Core.cancel(nanum.Service.hideNanumGuide);" type="button"><span class="blind">레이어 닫기</span></button></span>
+		</div>
+	</div>
+	<div style="left:35%;top:50px;display:none;" class="nanum_popup" id="layer_nanum_error">
+		<div class="nanum_popup_in">
+			<div class="cnt">
+			<span class="ques"></span>
+
+			<h4>나눔글꼴 확인 오류</h4>
+			<p>고객님의 pc에서 나눔글꼴이 확인되지 않습니다.<br>나눔글꼴로 검색결과를 보기위해서는 <span>나눔글꼴 재설치</span>가 필요합니다.<br><strong>나눔글꼴을 다시 설치하시겠습니까?</strong></p>
+			<p class="txt_nanum">나눔글꼴이 확인되지 않는 이유는 나눔글꼴 최초설치가 제대로 <br>완료되지 않은 경우, 설치된 폰트를 임의로 삭제한 경우에 발생합니다.</p>
+			<input type="image" alt="설치" class="nanum_inst" onclick="clickcr(this, 'fon_nan.popupinstall', '', '',event); nanum.core.install(nanum.service.hidenanumerror);" value="설치" name="" src="http://static.naver.net/terms/img/btn_setup.gif">
+	        <input type="image" alt="취소" onclick="clickcr(this, 'fon_nan.popupcancel', '', '',event); nanum.core.cancel(nanum.service.hidenanumerror); return tcr('a=fon_nan.popupcancel&amp;u=javascript');" value="취소" name="" src="http://static.naver.net/terms/img/btn_cancel.gif">
+	
+			</div>
+			<div class="txt_notice">
+			<p>개인 및 기업을 포함, 모든 사용자가 무료로 사용 가능합니다.</p>
+			<a href="https://help.naver.com/support/contents/contents.nhn?serviceNo=1074&categoryNo=3497" onClick="clickcr(this, 'fon_nan.popuplicense', '', '',event);" target="_blank">나눔글꼴 라이센스 전문보기</a><!-- N=a:fon_nan.popuplicense -->
+			</div>
+			<span class="btn_cl"><button title="레이어 닫기" onclick="clickcr(this, 'fon_nan.popupcancel', '', '',event); nanum.Core.cancel(nanum.Service.hideNanumError);" type="button"><span class="blind">레이어 닫기</span></button></span>
+		</div>
+	</div>
+	</div>
+	<hr>
+	
+	<div id="footer" role="contentinfo">
+	<div class="dic_wrap" id="dictionaryCategories">
+	<div class="dic_area">
+		<h3 class="dic_title">인기 백과</h3>
+		<div class="dic_iner">
+			<ul class="dic_list">
+			<li class="dic_item"><a href="/list.nhn?cid=40942&categoryId=40942">두산백과</a><!-- N=a:pct.list --></li>
+			<li class="dic_item"><a href="/list.nhn?cid=44621&categoryId=44621">한국민족문화대백과</a><!-- N=a:pct.list --></li>
+			<li class="dic_item"><a href="/list.nhn?cid=58737&categoryId=58737">네이버캐스트</a><!-- N=a:pct.list --></li>
+			<li class="dic_item"><a href="/list.nhn?cid=58276&categoryId=58276">한국 대중가요 앨범6000</a><!-- N=a:pct.list --></li>
+			<li class="dic_item"><a href="/list.nhn?cid=44622&categoryId=44622">동물/식물</a><!-- N=a:pct.list --></li>
+			<li class="dic_item"><a href="/list.nhn?cid=44623&categoryId=44623">미술작품</a><!-- N=a:pct.list --></li>
+			<li class="dic_item"><a href="/list.nhn?cid=48677&categoryId=48677">비주얼사전</a><!-- N=a:pct.list --></li>
+			</ul>
+		</div>
+		<a href="/category.nhn" class="btn_more">더보기</a><!-- N=a:pct.more -->
+	</div>
+</div><div class="info_wrap">
+		<ul class="info_list">
+			<li><a href="http://www.naver.com/rules/service.html" target="_blank">이용약관</a><!-- N=a:fot.agreement --></li>
+			<li><a href="https://help.naver.com/support/service/main.nhn?serviceNo=1000&categoryNo=2728" target="_blank">지식백과 고객센터</a><!-- N=a:fot.cs --></li>
+			<li><a href="https://help.naver.com/support/contents/contents.nhn?serviceNo=1000&categoryNo=2702" target="_blank">콘텐츠 수정</a><!-- N=a:fot.modify --> 및 <a href="https://help.naver.com/support/service/main.nhn?serviceNo=1000&categoryNo=2705" target="_blank" >오류신고</a><!-- N=a:fot.report --></li>
+			<li><a href="https://www.navercorp.com/ko/company/proposalGuide.nhn"  target="_blank">제휴제안</a><!-- N=a:fot.contact --></li>
+			<li><a href="http://www.naver.com/rules/privacy.html" target="_blank"><strong>개인정보처리방침</strong></a><!-- N=a:fot.privacy --></li>
+			<li><a href="/tlist/guide.nhn" target="_blank">지식리스트 운영원칙</a></li><!-- N=a:fot.policy -->
+			<li><a href="http://www.naver.com/rules/disclaimer.html" target="_blank">책임의 한계와 법적고지</a><!-- N=a:fot.disclaimer --></li>
+		</ul>
+		<address>
+			<a href="http://www.navercorp.com/" target="_blank" class="logo">NAVER</a><!-- N=a:fot.naver -->
+			<em>Copyright &copy;</em>
+			<a href="http://www.navercorp.com/" target="_blank">NAVER Corp.</a><!-- N=a:fot.naver -->
+			<span>All Rights Reserved.</span>
+		</address>
+	</div>
+	</div></div>
+
+<script type="text/javascript">
+
+	var nsc = "terms.end";
+	</script>
+<script type="text/javascript" src="http://common.like.naver.com/static/js/likeIt.list.js?v=170920171745"></script>
+<script type="text/javascript">
+(function(){
+	var id = "naver-splugin-sdk", t = new Date(), yyyy = t.getFullYear(), mm = t.getMonth() + 1, dd = t.getDate();
+	var s = document.createElement("script"); s.id = id; s.type = "text/javascript", s.charset = "utf-8", s.async = false;
+	s.src = ("http://spi.naver.net/js/release/ko_KR/splugin.js?" + yyyy + (mm < 10 ? '0' + mm : mm) + (dd < 10 ? '0' + dd : dd));
+	var d = document.getElementsByTagName('head')[0]; d.appendChild(s, d);
+})();
+</script>
+
+<script src="/js/release/common.js?170920171745"></script><script>
+window.TLIST_SERVICE_COOKIE_DOMAIN = ".terms.naver.com";
+window.TERMS_IS_DETAIL_PAGE = true;
+</script>
+
+<script type="text/javascript">
+function initJs() {
+	// 공통
+	document.getElementById("autoFrame").src = "/reatcmp.jsp";
+	
+	like.init("http://common.like.naver.com");
+	
+	initAutoComplete("http://ac.terms.naver.com/ac");
+	lazyLoadImages();
+	globalNavigation.init();
+	localNavigation.init();
+// 	goTopNavigation.init();
+	rightAsideControll.init(1);
+
+	searchWindow.init();
+	searchWindowForIos.init();
+	searchOption.init();
+	searchAsideControll.init();
+	
+	relatedPersonController.init();
+	
+	termsJQuery(".__ellipsis").dotdotdot({
+		wrap: 'letter'
+	});
+
+	termsJQuery(".__source_ellipsis").dotdotdot({
+		wrap: 'letter',
+		after: "a.more_link",
+		callback:function( isTruncated, orgContent ){
+			if (isTruncated) {
+				termsJQuery(this).removeClass("__source_ellipsis");				
+			}
+         }
+	});
+
+	
+		termsAnswerBtn.init(false);
+		viewHistory("TERMS", 3404385);
+		footnote.init(false, false);
+		relatedContents.init();
+		attributesInfo.resize();
+		alignToc();
+		termsJindo.$Element(window).attach("load", termsJindo.$Fn(tocAnchor._highlight, this).bind()).attach("hashchange", termsJindo.$Fn(tocAnchor._highlight, this).bind());
+		tocAnchor.init();
+		attachTableContentAreaEvent();
+// 		ellipsis2Line.init();
+
+		termsJindo.$Element(window).attach("load", hashChange).attach("hashchange", hashChange);
+		hashChange();
+		
+		rightAsideControllScroll.init("entry");
+		termsJindo.$Element(window).attach("load", function(){rightAsideControllScroll.init("entry");}).attach("resize", function(){rightAsideControllScroll.init("entry");});
+
+		videoAlt.init("bdy");
+		graphDataTerm("3404385", "32190")
+		relatedVideos.init("0");
+		diffMeaningTerms.init("양정역", "E00275553");
+
+		tlistCard.init();	// 상세보기 하단 지식리스트 카드뷰 관련 모듈 설정
+
+		
+		var thumbnailInfoData = {
+		    "images": [{"originalHeight":1278,"desc":"부산광역시 도시철도 1호선 역.","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"부산지하철 1호선 양정역","thumbnail":{"docId":3404385,"height":53,"seq":2,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234114012_QM7GE0P8T.jpg/8659362.jpg?type=r100&wm=N","width":80},"height":398,"alt":"부산지하철 1호선 양정역 ","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234114012_QM7GE0P8T.jpg/8659362.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920},{"originalHeight":1278,"desc":"부산광역시 도시철도 1호선 역.","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"부산지하철 1호선 양정역","thumbnail":{"docId":3404385,"height":53,"seq":3,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234047552_DB3H2PYHT.jpg/8659361.jpg?type=r100&wm=N","width":80},"height":398,"alt":"부산지하철 1호선 양정역 ","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234047552_DB3H2PYHT.jpg/8659361.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920},{"originalHeight":1278,"desc":"부산광역시 도시철도 1호선 역.","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"부산지하철 1호선 양정역","thumbnail":{"docId":3404385,"height":53,"seq":4,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234045172_T8X8LUXHH.jpg/8659360.jpg?type=r100&wm=N","width":80},"height":398,"alt":"부산지하철 1호선 양정역 ","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234045172_T8X8LUXHH.jpg/8659360.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920},{"originalHeight":1278,"desc":"부산광역시 도시철도 1호선 역.","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"부산지하철 1호선 양정역","thumbnail":{"docId":3404385,"height":53,"seq":5,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234042965_5WH60X94Q.jpg/8659357.jpg?type=r100&wm=N","width":80},"height":398,"alt":"부산지하철 1호선 양정역 ","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234042965_5WH60X94Q.jpg/8659357.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920},{"originalHeight":1278,"desc":"부산광역시 도시철도 1호선 역.","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"부산지하철 1호선 양정역","thumbnail":{"docId":3404385,"height":53,"seq":6,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234035952_J3DBTBBNF.jpg/8659352.jpg?type=r100&wm=N","width":80},"height":398,"alt":"부산지하철 1호선 양정역 ","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234035952_J3DBTBBNF.jpg/8659352.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920},{"originalHeight":1278,"desc":"부산광역시 도시철도 1호선 역.","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"부산지하철 1호선 양정역","thumbnail":{"docId":3404385,"height":53,"seq":7,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234217438_4U4Y0EDYR.jpg/8659369.jpg?type=r100&wm=N","width":80},"height":398,"alt":"부산지하철 1호선 양정역 ","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234217438_4U4Y0EDYR.jpg/8659369.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920},{"originalHeight":1284,"desc":"","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"양정역","thumbnail":{"docId":3404385,"height":53,"seq":8,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614205816507_TQPY0VJOA.jpg/8191542.jpg?type=r100&wm=N","width":80},"height":400,"alt":"양정역","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614205816507_TQPY0VJOA.jpg/8191542.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920},{"originalHeight":1284,"desc":"","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"양정역","thumbnail":{"docId":3404385,"height":53,"seq":9,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614205818280_ES8M3XAWN.jpg/8191543.jpg?type=r100&wm=N","width":80},"height":400,"alt":"양정역","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614205818280_ES8M3XAWN.jpg/8191543.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920},{"originalHeight":1284,"desc":"","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"양정역","thumbnail":{"docId":3404385,"height":53,"seq":10,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614205903172_HEDUD0L8U.jpg/8191545.jpg?type=r100&wm=N","width":80},"height":400,"alt":"양정역","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614205903172_HEDUD0L8U.jpg/8191545.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920},{"originalHeight":1278,"desc":"부산광역시 도시철도 1호선 역.","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"부산지하철 1호선 양정역","thumbnail":{"docId":3404385,"height":53,"seq":11,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234217262_XHATIUC8W.jpg/8659368.jpg?type=r100&wm=N","width":80},"height":398,"alt":"부산지하철 1호선 양정역 ","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234217262_XHATIUC8W.jpg/8659368.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920},{"originalHeight":1284,"desc":"","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"양정역","thumbnail":{"docId":3404385,"height":53,"seq":12,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614205903181_IDOGBDH8J.jpg/8191555.jpg?type=r100&wm=N","width":80},"height":400,"alt":"양정역","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614205903181_IDOGBDH8J.jpg/8191555.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920},{"originalHeight":1278,"desc":"부산광역시 도시철도 1호선 역.","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"부산지하철 1호선 양정역","thumbnail":{"docId":3404385,"height":53,"seq":13,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234116569_BKYJCTS38.jpg/8659363.jpg?type=r100&wm=N","width":80},"height":398,"alt":"부산지하철 1호선 양정역 ","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234116569_BKYJCTS38.jpg/8659363.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920},{"originalHeight":1278,"desc":"부산광역시 도시철도 1호선 역.","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"부산지하철 1호선 양정역","thumbnail":{"docId":3404385,"height":53,"seq":14,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234118857_GPN0MMBHK.jpg/8659364.jpg?type=r100&wm=N","width":80},"height":398,"alt":"부산지하철 1호선 양정역 ","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234118857_GPN0MMBHK.jpg/8659364.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920},{"originalHeight":1278,"desc":"부산광역시 도시철도 1호선 역.","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"부산지하철 1호선 양정역","thumbnail":{"docId":3404385,"height":53,"seq":15,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234146782_ME2N7TX47.jpg/8659365.jpg?type=r100&wm=N","width":80},"height":398,"alt":"부산지하철 1호선 양정역 ","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234146782_ME2N7TX47.jpg/8659365.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920},{"originalHeight":1278,"desc":"부산광역시 도시철도 1호선 역.","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"부산지하철 1호선 양정역","thumbnail":{"docId":3404385,"height":53,"seq":16,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234204469_7QPTWUOCR.jpg/8659366.jpg?type=r100&wm=N","width":80},"height":398,"alt":"부산지하철 1호선 양정역 ","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234204469_7QPTWUOCR.jpg/8659366.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920},{"originalHeight":1278,"desc":"부산광역시 도시철도 1호선 역.","width":599,"copyright":"출처: doopedia.co.kr","date":"","type":"OUTSIDE","originalServiceUrlPc":"","title":"부산지하철 1호선 양정역","thumbnail":{"docId":3404385,"height":53,"seq":17,"thumbnailType":"LIST","url":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234207087_L562NARBS.jpg/8659367.jpg?type=r100&wm=N","width":80},"height":398,"alt":"부산지하철 1호선 양정역 ","src":"http://dbscthumb.phinf.naver.net/2765_000_5/20170614234207087_L562NARBS.jpg/8659367.jpg?type=m4500_4500_fst&wm=N","originalWidth":1920}]
+		};
+		relatedImages.init(thumbnailInfoData, 3404385);
+		
+		
+		realtedTheme("3404385", "", "http://common.like.naver.com");
+		sameMeaningTerm("3404385", "http://common.like.naver.com", "32190");
+		
+		relatedPerson("양정역");
+
+		searchAcademic("양정역");
+		entrySearch.init("3404385", "32190");
+		
+		searchKin("양정역", "http://common.like.naver.com");
+
+    
+			initComment("terms01", "3404385", false, "http://static.cbox.naver.net/", "http://apis.naver.com/commentBox/cbox", 0, 3404385, "doopedia");
+		
+
+// 	
+// 	setTimeout(function(){
+//         fixNavigation.fix()}, 800);
+// 	
+	 nhn.jsDynamicLoad.include("/js/common/correctionFocus.js?170920171745", function(){
+		 nhn.terms.correctionFocus.init();
+	 });
+	
+	
+	/////////////////////////////////////
+	
+	////////////////////////////////////////
+}
+</script>
+
+<script>termsJindo.$Element(window).attach("load", termsJindo.$Fn(function(){nhn.jsDynamicLoad.include("/js/release/entry.js?170920171745", function(){
+        initJs();
+})}, this).bind());</script><script type="text/javascript">
+
+termsJindo.$Fn(function(){
+	nhn.LikeIt.list.util.init({
+	    sId : "ENCYCLOPEDIA"
+	    , sDomain : "http://common.like.naver.com"
+	    , bMobile : false
+	    , sTemplate : "<span class=\"u_ico\"></span><em class=\"u_txt\">도움됐어요</em><em class=\"u_cnt _cnt\"></em><span class=\"bg_blank\"></span><span class=\"bd_blank\"></span>"
+		, elWrapper : document.getElementById("wrap")
+		, bZeroText : false
+	});
+}, this).attach(window, "load");
+</script>
+
+<script type="text/javascript">
+</script>
+<script type="text/javascript">
+fontSizeController = {
+	init: function(defaultLevel, fontSize) {
+		var defaultLevel = defaultLevel;
+		var fontSize = fontSize < 1 ? 1 : (fontSize > 3 ? 3 : fontSize);
+
+		var btns = termsJQuery(".__fontBtn");
+		if (btns.length == 0) {
+			return;
+		}
+
+		var smallBtn = btns[0];
+		var bigBtn = btns[1];
+
+		if (!smallBtn || smallBtn.length == 0 || !bigBtn || bigBtn.length == 0) {
+			return;
+		}
+
+		btns.click(function(event) {
+			var targetEle = termsJQuery(event.target);
+
+			var nowFontSize = fontSize;
+            var newFontSize = targetEle.hasClass("sm") ? (nowFontSize * 1 - 1) : (nowFontSize * 1 + 1);
+
+            if (newFontSize >= 3) {
+            	newFontSize = 3;
+            } else if (newFontSize <= 1) {
+            	newFontSize = 1;
+            }
+
+            if (newFontSize == 1) {
+            	termsJQuery(smallBtn).addClass("disabled");
+             clickcr(this, 'toa.fssmall', '', '', event, 1);
+	        } else if (newFontSize == 2) {
+            	termsJQuery(smallBtn).removeClass("disabled");
+            	termsJQuery(bigBtn).removeClass("disabled");
+	            clickcr(this, 'toa.fsmedium', '', '', event, 1);
+	        } else {
+            	termsJQuery(bigBtn).addClass("disabled");
+	            clickcr(this, 'toa.fslarge', '', '', event, 1);
+	        }
+
+            termsJQuery('#size_ct').removeClass('size_ct_v' + fontSize);
+            termsJQuery('#size_ct').addClass('size_ct_v' + newFontSize);
+            termsJQuery.cookie('pc_font_size_normal', newFontSize, 10000);
+            fontSize = newFontSize;
+
+            var tocObj = termsJindo.$$("div.tmp_agenda li a");
+            if (termsJindo.$Element(termsJindo.$$.getSingle(("div.tmp_agenda"))) != null) {
+                termsJindo.$Element(termsJindo.$$.getSingle(("div.tmp_agenda"))).removeClass("newline");
+            }
+
+            for (var i = 0; i < tocObj.length; i++) {
+                var height = termsJindo.$Element(tocObj[i]).height();
+                if (height > 24) {
+                    termsJindo.$Element(termsJindo.$$.getSingle(("div.tmp_agenda"))).addClass("newline");
+                    break;
+                }
+            }
+
+            var tableOfContent = termsJindo.$$("[id^=TABLE_OF_CONTENT]");
+
+            var firstDepth;
+            var tableLength = tableOfContent.length;
+            if (tableLength > 0) {
+                firstDepth = tableOfContent[0].tagName.replace('H', '');
+            }
+            var hasDepth = false;
+
+            for (var index = 0; index < tableLength; index++) {
+                if (tableOfContent[index].tagName.replace('H', '') != firstDepth) {
+                    hasDepth = true;
+                    break;
+                }
+            }
+
+            if (hasDepth == true) {
+                termsJindo.$Element(termsJindo.$$.getSingle(("div.tmp_agenda"))).addClass("newline");
+            }
+
+            attributesInfo.resize();
+//             ellipsis2Line.init();
+            alignToc()
+		});
+//         var btnFs = termsJindo.$Element("btn_fs");
+//         if (btnFs) {
+//             btnFs.delegate(
+//                 "click",
+//                 function (oEle, oClickEle) {
+//                     return oClickEle.tagName == 'A';
+//                 },
+//                 function (e) {
+//                     var elClick = termsJindo.$Element(e.element);
+//                     if (!elClick.hasClass("on")) {
+//                         return;
+//                     }
+
+//                     var nowFontSize = fontSize;
+//                     var newFontSize = elClick.hasClass("small") ? (nowFontSize * 1 - 1) : (nowFontSize * 1 + 1);
+
+//                     var elSmallBtn = termsJindo.$Element($$.getSingle("#btn_fs .small"));
+//                     var elLargeBtn = termsJindo.$Element($$.getSingle("#btn_fs .large"));
+
+//                     if (newFontSize == 1) {
+//                         elSmallBtn.removeClass("on");
+//                         elLargeBtn.addClass("on");
+//                         clickcr(this, 'toa.fssmall', '', '', e, 1);
+//                     } else if (newFontSize == 2) {
+//                         elSmallBtn.addClass("on");
+//                         elLargeBtn.addClass("on");
+//                         clickcr(this, 'toa.fsmedium', '', '', e, 1);
+//                     } else {
+//                         elSmallBtn.addClass("on");
+//                         elLargeBtn.removeClass("on");
+//                         clickcr(this, 'toa.fslarge', '', '', e, 1);
+//                     }
+
+//                     termsJindo.$Element('size_ct').removeClass('size_ct_v' + fontSize);
+//                     termsJindo.$Element('size_ct').addClass('size_ct_v' + newFontSize);
+//                     termsJQuery.cookie('pc_font_size_normal', newFontSize, 10000);
+//                     fontSize = newFontSize;
+
+//                     var tocObj = termsJindo.$$("div.tmp_agenda li a");
+//                     if (termsJindo.$Element(termsJindo.$$.getSingle(("div.tmp_agenda"))) != null) {
+//                         termsJindo.$Element(termsJindo.$$.getSingle(("div.tmp_agenda"))).removeClass("newline");
+//                     }
+
+//                     for (var i = 0; i < tocObj.length; i++) {
+//                         var height = termsJindo.$Element(tocObj[i]).height();
+//                         if (height > 24) {
+//                             termsJindo.$Element(termsJindo.$$.getSingle(("div.tmp_agenda"))).addClass("newline");
+//                             break;
+//                         }
+//                     }
+
+//                     var tableOfContent = termsJindo.$$("[id^=TABLE_OF_CONTENT]");
+
+//                     var firstDepth;
+//                     var tableLength = tableOfContent.length;
+//                     if (tableLength > 0) {
+//                         firstDepth = tableOfContent[0].tagName.replace('H', '');
+//                     }
+//                     var hasDepth = false;
+
+//                     for (var index = 0; index < tableLength; index++) {
+//                         if (tableOfContent[index].tagName.replace('H', '') != firstDepth) {
+//                             hasDepth = true;
+//                             break;
+//                         }
+//                     }
+
+//                     if (hasDepth == true) {
+//                         termsJindo.$Element(termsJindo.$$.getSingle(("div.tmp_agenda"))).addClass("newline");
+//                     }
+
+//                     attributesInfo.resize();
+// //                     ellipsis2Line.init();
+//                     alignToc();
+//                 }
+//             );
+//         }
+	}
+};
+fontSizeController.init('normal', '2');
+</script>
+<script type="text/javascript">
+$termsJQuery(".btn_top_ly_close").click(function(event) {
+	var targetEle = $termsJQuery("#summary_help_layer");
+
+	if (targetEle.hasClass("active")) {
+		targetEle.removeClass("active");
+		$termsJQuery.cookie("summary_help_layer_close", "true", {expires: 30});
+	}
+});
+</script><script type="text/javascript">
+
+// 
+var aPostAutoSourcingHtmlView = [];
+var autoSourcingYn = true;
+</script>
+<script type="text/javascript">
+var AutoSourcing = {
+    elDiv: null,
+    id: "",
+    timer: null,
+    strings: [],
+    skip: false,
+    init: function (a) {
+        var f = termsJindo.$Agent().navigator();
+        var c = f.safari;
+        this.elDiv = termsJindo.$("<div>");
+        var b = termsJindo.$Element(this.elDiv);
+        b.className(((f.ie || f.firefox) && !c) ? "autosourcing-stub" : "autosourcing-stub-extra");
+        this.id = "autosourcing_tmp_" + Math.floor((Math.random() * 100000));
+        if (typeof a == "undefined") {
+            a = true;
+        }
+        this.setEnable(a);
+    },
+    setEnable: function (a) {
+        if (a) {
+            if (typeof document.body.oncopy != "undefined") {
+                termsJindo.$Fn(this.copy, this).attach(document.body, "copy");
+            } else {
+                termsJindo.$Fn(this.keydown, this).attach(document, "keydown");
+                termsJindo.$Fn(this.keypress, this).attach(document, "keypress");
+                termsJindo.$Fn(this.copy, this).attach(document, "contextmenu");
+            }
+        }
+    },
+    getSelection: function () {
+        if (window.getSelection) {
+            return window.getSelection();
+        } else {
+            return document.selection;
+        }
+    },
+    getRange: function (a) {
+        a = a || this.getSelection();
+        if (a.getRangeAt) {
+            return a.getRangeAt(0);
+        } else {
+            return a.createRange();
+        }
+    },
+    cloneRange: function (a) {
+        a = a || this.getRange();
+        if (a.duplicate) {
+            return a.duplicate();
+        } else {
+            return a.cloneRange();
+        }
+    },
+    getParentElement: function (a) {
+        var b = a.parentElement ? a.parentElement() : a.commonAncestorContainer;
+        if (!b) {
+            return null;
+        }
+        while (b.nodeType != 1) {
+            b = b.parentNode;
+        }
+        return b;
+    },
+    setString: function (b, a) {
+        this.strings[b] = a;
+    },
+    copy: function (f) {
+        var d = this.getSelection();
+        var a = this.getRange(d);
+        var p = this.cloneRange(a);
+        var o = /<(?:p|div)[^<>]+class\s*=\s*"?autosourcing\-stub(?:\-extra)?\-saved(?:\b|")/i;
+        var g = /textarea|input/i;
+        var m = null;
+        var l;
+        this.skip = false;
+        clearTimeout(this.timer);
+        if (f && f.element && f.element.tagName.toUpperCase() == "A") {
+            return
+        }
+
+        if (termsJindo.$S(a).bytes({charset:'euc-kr'}) <= 200) {
+        	return;
+        }
+
+        try {
+            this.elDiv.innerHTML = this.strings[1];
+        } catch (k) {}
+        if (window.getSelection) {
+            var h = (window.XMLSerializer) ? new XMLSerializer().serializeToString(a.cloneContents()) : "";
+            if (o.test(h) || g.test(a.commonAncestorContainer.tagName)) {
+                if (this.elDiv && this.elDiv.parentNode) {
+                    this.elDiv.parentNode.removeChild(this.elDiv);
+                }
+                this.skip = true;
+                return
+            }
+            p.collapse(false);
+            p.insertNode(this.elDiv);
+            if (this.elDiv.nextSibling) {
+                a.setEndBefore(this.elDiv.nextSibling);
+            } else {
+                a.setEndAfter(this.elDiv);
+            }
+            d.removeAllRanges();
+            d.addRange(a);
+        } else {
+            if (document.selection) {
+                var j = document.body || document.getElementsByTagName("body")[0];
+                var c = ("<div>");
+                var n = termsJindo.$("<span>");
+                n.id = this.id;
+                if (o.test(a.htmlText) || g.test(a.parentElement().tagName)) {
+                    this.skip = true;
+                    return
+                }
+                p.collapse(false);
+                p.pasteHTML(n.outerHTML + "&nbsp;<span></span>");
+                n = termsJindo.$(this.id);
+                (n || p.parentElement()).insertAdjacentElement("afterEnd", this.elDiv);
+                do {
+                    a.moveEnd("character", 1);
+                    (p = a.duplicate()).collapse(false);
+                } while (p.offsetLeft == 0);
+                try {
+                    a.select();
+                } catch (k) {}
+                if (n && n.parentNode) {
+                    if (n.nextSibling && n.nextSibling.nextSibling) {
+                        n.parentNode.removeChild(n.nextSibling.nextSibling);
+                    }
+                    if (n.nextSibling && n.nextSibling.nextSibling) {
+                        n.parentNode.removeChild(n.nextSibling.nextSibling);
+                    }
+                    if (n) {
+                        n.parentNode.removeChild(n);
+                    }
+                }
+                if (c && c.parentNode) {
+                    c.parentNode.removeChild(c);
+                }
+            }
+        } if (typeof document.body.oncopy != "undefined") {
+            this.timer = setTimeout(termsJindo.$Fn(function () {
+                        this.aftercopy(a);
+                    }, this).bind(), 1);
+        }
+    },
+    aftercopy: function (a) {
+        if (this.skip) {
+            return
+        }
+        try {
+            this.elDiv.parentNode.removeChild(this.elDiv);
+            if (/WebKit/.test(navigator.userAgent)) {
+                var b = this.getSelection();
+                b.removeAllRanges();
+                b.addRange(a);
+            }
+        } catch (c) {}
+    },
+    keydown: function (b) {
+        var a = b.key();
+        if ((a.ctrl || a.meta) && a.keyCode == 67) {
+            this.copy(b);
+        }
+    },
+    keypress: function (b) {
+        var a = b.key();
+        if ((a.ctrl || a.meta) && a.keyCode == 67) {
+            this.timer = setTimeout(termsJindo.$Fn(function () {
+                        this.aftercopy();
+                    }, this).bind(), 10);
+        }
+    },
+    mousedown: function (a) {}
+};
+
+var PostExecutor = termsJindo.$Class({
+        $init: function () {
+            this._setEvent();
+        },
+        _setEvent: function () {
+            termsJindo.$Fn(this._onLoad, this).attach(window, "load");
+        },
+        _onLoad: function () {
+            this.setAutoSourcingHtmlView();
+        },
+        _onError: function (a) {
+            utility.nvl_error(a);
+        },
+        setAutoSourcingHtmlView: function () {
+            var a, b;
+            AutoSourcing.init(autoSourcingYn);
+            b = aPostAutoSourcingHtmlView.length;
+            for (a = 1; a < b; a++) {
+                AutoSourcing.setString(a, aPostAutoSourcingHtmlView[a]);
+            }
+        }
+    });
+new PostExecutor();
+
+function CopyPaste() {
+	var text = '';
+	var is_onmouseup = false;
+	var is_ctrl = false;
+	this.Init = Init;
+	this.ChangeTextInSelection = ChangeTextInSelection;
+	this.EventHandler = EventHandler;
+	function Init(init_text) {
+		text = init_text;
+		if (window.addEventListener) {
+			if (window.navigator.userAgent.match('Firefox')) {
+				switch (window.navigator.userAgent.match(/Firefox\/\d/)
+						.toString()) {
+				case 'Firefox/1':
+				case 'Firefox/2':
+					document.addEventListener('mouseup', this.EventHandler,
+							false);
+					is_onmouseup = true;
+					document.addEventListener('keyup', function(e) {
+						if (e.which == 17)
+							is_ctrl = false;
+					}, false);
+					document.addEventListener('keydown', function(e) {
+						if (e.which == 17)
+							is_ctrl = true;
+						if (e.which == 67 && is_ctrl == true)
+							EventHandler();
+					}, false);
+					break;
+				default:
+					document.getElementsByTagName('body')[0].addEventListener(
+							'copy', this.EventHandler, false);
+				}
+			}
+		} else {
+			document.getElementsByTagName('body')[0].attachEvent('oncopy', this.EventHandler);		
+		}
+	};
+	function ChangeTextInSelection(text) {
+		var body_element = document.getElementsByTagName('body')[0];
+		var new_selection_block = document.createElement('div');
+		new_selection_block.style.overflow = 'hidden';
+		new_selection_block.style.color = '#000000';
+		new_selection_block.style.backgroundColor = 'transparent';
+		new_selection_block.style.textAlign = 'left';
+		new_selection_block.style.textDecoration = 'none';
+		new_selection_block.style.border = 'none';
+		new_selection_block.id = 'new_selection_block'
+				+ Math.random().toString();
+		if (typeof window.getSelection != 'undefined') {
+			var current_selection = window.getSelection();
+
+			if (termsJindo.$S(current_selection).bytes({charset:'euc-kr'}) <= 200) {
+	        	return;
+	        }
+
+			if (current_selection.toString()) {
+				if (typeof current_selection.setBaseAndExtent != 'undefined') {
+					var current_range = current_selection.getRangeAt(0);
+					new_selection_block.style.width = 0.1;
+					new_selection_block.style.height = 0.1;
+					new_selection_block.appendChild(current_range
+							.cloneContents());
+					var new_text_block = document.createElement('div');
+					new_text_block.innerHTML = text;
+					new_selection_block.appendChild(new_text_block);
+					body_element.appendChild(new_selection_block);
+					current_selection.selectAllChildren(new_selection_block);
+					window.setTimeout(function() {
+						new_selection_block.parentNode
+								.removeChild(new_selection_block);
+						window.getSelection().setBaseAndExtent(
+								current_range.startContainer,
+								current_range.startOffset,
+								current_range.endContainer,
+								current_range.endOffset);
+					}, 0);
+				} else {
+					if (window.navigator.userAgent.match('Firefox')) {
+						var current_text_lower = text.replace(/<.*?>/gi, '');
+	
+						if (current_selection.toString()
+								.indexOf(current_text_lower) == -1) {
+							var new_text_block = document.createElement('div');
+							new_text_block.style.position = 'fixed';
+							body_element.appendChild(new_text_block);
+							new_selection_block.innerHTML = text;
+							new_text_block.appendChild(new_selection_block);
+							var new_range = document.createRange();
+							new_range.selectNode(new_text_block);
+							current_selection.addRange(new_range);
+							window.setTimeout(function() {
+								new_text_block.parentNode
+										.removeChild(new_text_block);
+							}, (is_onmouseup) ? 3000 : 0);
+						}
+					} else {
+						var current_text_lower = text.replace(/<.*?>/gi, '');
+						var original_text =  current_selection.toString();
+	
+						if (current_selection.toString()
+								.indexOf(current_text_lower) == -1) {
+							var new_text_block = document.createElement('div');
+							new_text_block.style.position = 'fixed';
+							body_element.appendChild(new_text_block);
+							new_selection_block.innerHTML = original_text + text;
+							new_text_block.appendChild(new_selection_block);
+							var new_range = document.createRange();
+							new_range.selectNodeContents(new_text_block);
+							current_selection.removeAllRanges();
+							current_selection.addRange(new_range);
+							window.setTimeout(function() {
+								new_text_block.parentNode
+										.removeChild(new_text_block);
+							}, (is_onmouseup) ? 3000 : 0);
+						}
+					}
+				}
+			}
+		} else {
+			var range = document.selection.createRange();
+
+			if (termsJindo.$S(range.text.toString()).bytes({charset:'euc-kr'}) <= 200) {
+	        	return;
+	        }
+
+			var current_range_text_lower = range.text.toString().toLowerCase();
+			var current_text_lower = text.toLowerCase().replace(/<.*?>/gi, '');
+			if (current_range_text_lower.indexOf(current_text_lower) == -1) {
+				new_selection_block.innerHTML = range.htmlText + text;
+			} else {
+				new_selection_block.innerHTML = range.htmlText
+			}
+			body_element.appendChild(new_selection_block);
+			var new_text_range = body_element.createTextRange();
+			scrollTop = document.documentElement.scrollTop;
+			
+			new_text_range.moveToElementText(new_selection_block);
+			new_text_range.select();
+			window.setTimeout(
+					function() {
+						new_selection_block.parentNode
+								.removeChild(new_selection_block);
+						if (range.text != '') {
+							range.select();
+						}
+					}, 0);
+			document.documentElement.scrollTop = scrollTop;
+		}
+	};
+	function EventHandler(e) {
+		ChangeTextInSelection(text);
+	};
+}
+</script><script type="text/javascript">
+
+	if (navigator.userAgent.match('Firefox')) {
+		margin = 'margin:0px 0 7px 0';
+	} else {
+		margin = 'margin:11px 0 7px 0';
+	}
+	termSource = '<p style="'+ margin + ';padding:0;font-size:12px;font-family:Dotum;font-style:normal;font-weight: normal;color:black;"><strong style="padding:0 7px 0 0;color:black;font-weight:bold;font-size:12px;">[네이버 지식백과]</strong> <a href=\"http://terms.naver.com/entry.nhn?docId=3404385\">양정역</a>'
+		+ ' [楊亭驛]'
+		+ ''
+		+ ''
+			+ ''
+			+ ' (두산백과'
+					+ ''
+					+ ''
+			+ ')'
+		+ '</p>';
+
+	if (navigator.userAgent.toLowerCase().indexOf("msie 8") > -1 || navigator.userAgent.match('Firefox')) {
+		var copyPaste = new CopyPaste();
+		copyPaste.Init(termSource);
+	}
+	else {
+		aPostAutoSourcingHtmlView[1] = termSource;
+	}
+
+termsJindo.$Fn(function() {
+	window.__splugin = SocialPlugIn_Core({
+		// nEvent Key
+		"evKey"       : "terms",
+		// 서비스명
+		"serviceName" : "지식백과",
+		// 버튼 클릭후 호출되는 콜백함수
+		"onClick"     : function(button) {
+			// button = 버튼명(band:밴드보내기)
+		},
+		// 공유하기 레이어 노출 후 호출되는 콜백함수
+		"onShow"      : function() {
+			
+		},
+		// 공유하기 레이어 닫기 후 호출되는 콜백함수
+		"onHide"      : function() {
+		}
+	});
+}).attach(window, 'load');
+
+/* 나눔글꼴 기본 정보 */
+var nanum = nanum || {};
+nanum.Config = {
+    core: {
+        sCookieName             : "TNNF",
+        sCookieDomain           : "terms.naver.com",
+        nCookieExpire           : 3650,
+        sWinSetupFileUrl        : "http://cdn.naver.com/naver/NanumFont/setup/NanumFontSetup_TTF_GOTHIC_totalsearch.exe",
+        sMacSetupFileUrl        : "http://cdn.naver.com/naver/NanumFont/setupmac/NanumFontSetup_MacOS_TTF_GOTHIC_totalsearch.zip"
+    },
+   
+    service: {
+        bPopupCenterPosition    : true
+    }
+};
+
+
+nhn.jsDynamicLoad.include("/js/search_option_terms.js?170920171745",function(){
+    var bIPhone = (navigator.userAgent.indexOf("iPhone") > -1 ) ? true : false;
+    
+    if (bIPhone){
+    	font.Service.hideNanumArea();
+        return;
+    }
+   	
+    font.Service.init();
+});
+
+
+
+
+function clickVideoViewer(action) {
+	if (action == 'play') {
+		clickcr(this, 'bdy.video', '', '',event);
+	}
+}
+function playBodyVideoUgc(event) {
+	var element;
+	if (event.srcElement) {
+		element = event.srcElement;
+	} else {
+		element = event.target;
+	}
+	if (element.tagName == 'A' && element.className == 'pl') {
+		clickcr(this, 'rvp.video', '', '', event);
+	}
+}
+var bodyVideoUgc = document.getElementById('bodyVideoUgc');
+if (bodyVideoUgc) {
+	if (window.attachEvent) {
+		bodyVideoUgc.attachEvent('onclick', playBodyVideoUgc);
+	} else if (window.addEventListner) {
+		bodyVideoUgc.addEventListner('click', playBodyVideoUgc, false);
+	} else {
+		bodyVideoUgc.onclick = playBodyVideoUgc;
+	}
+}
+
+
+nhn.jsDynamicLoad.include("/js/lcslog.js?170920171745",function(){
+	try {
+		lcs_do({"providers":["pv327"],"sources":["doopedia"]});
+	} catch (e) {}
+});
+nhn.jsDynamicLoad.include("/js/nclktag.js?170920171745",function(){
+	nclk_do();
+});
+
+function markFrom(from) {
+	termsJindo.$Cookie().set("linked_from", from);
+}
+</script>
+
+<script>	
+termsJindo.$Fn(function(){
+	nhn.jsDynamicLoad.include("/tlist/api/js/tlist.js?170920171745", function() {
+		naver.tlist.init({domain: "http://terms.naver.com", serviceCode: "TERMS", cacheBustingParam: "170920171745"
+			
+		});
+	});
+}, this).attach(window, "load");
+</script>
+
+<script>
+
+termsJindo.$Fn(function(){
+	 nhn.jsDynamicLoad.include("/dic_tooltip/v1.3/js/dic_tooltip.min.js?170920171745",function(){
+		 naver.dic.tooltip.main.init(".headword_title, #content .na_block_quote, #content .txt, .att_type th, .att_type td:not(.audioTd), .s_dl, .lst_type,.box_tbl, h3.stress, .thmb_txt p, .thmb_desc .c-title, .thmb_desc .c-description, .img_txt strong, .atomic-block p, .naml_area", {
+									nclicker : clickcr,
+									layerPositionFix : true,
+									dic: [{
+											name: "english", 
+											addRule: ["'"],
+											replaceItemList: [
+											                  {search : "(<img.*?) source\=['\"][^>]*?<[aA] [^>]*>[^<]*?<\?/[aA]>.*?['\"]", replacement : "$1"}, 
+											                  {search : "(<img.*?) source_mobile\=['\"][^>]*?<[aA] [^>]*>[^<]*?<\?/[aA]>.*?['\"]", replacement : "$1"},
+											                  {search : "(<img.*?) data-title\=['\"][^>]*?<[aA] [^>]*>[^<]*?<\?/[aA]>.*?['\"]", replacement : "$1"},
+											                  {search : "(<img.*?) desc\=['\"][^>]*?<[aA] [^>]*>[^<]*?<\?/[aA]>.*?['\"]", replacement : "$1"},
+											                  {search : "(<IMG.*?) source\=['\"][^>]*?<[aA] [^>]*>[^<]*?<\?/[aA]>.*?['\"]", replacement : "$1"}, 
+											                  {search : "(<IMG.*?) source_mobile\=['\"][^>]*?<[aA] [^>]*>[^<]*?<\?/[aA]>.*?['\"]", replacement : "$1"},
+											                  {search : "(<IMG.*?) data-title\=['\"][^>]*?<[aA] [^>]*>[^<]*?<\?/[aA]>.*?['\"]", replacement : "$1"},
+											                  {search : "(<IMG.*?) desc\=['\"][^>]*?<[aA] [^>]*>[^<]*?<\?/[aA]>.*?['\"]", replacement : "$1"}
+															 ],
+									 		ignoreItemList :["@@NAMATH_INLINE@@[\\\s\\\S]*?@@NAMATH_INLINE@@", "@@NAMATH_DISPLAY@@[\\\s\\\S]*?@@NAMATH_DISPLAY@@"],
+									 		unUseBackSlashReplace:false
+										},										
+										{
+											name: "hanja"
+										}]
+		 });
+		 
+		 var welSoundList = termsJindo.$ElementList(".tlp_sound");
+		 if(welSoundList){
+			var layerpopuper = new naver.dic.tooltip.layerpopuper.English();
+			for(var i = 0, size = welSoundList.length(); i < size; i++) {
+				var welSound = welSoundList.get(i);
+				var id = welSound.attr("id").substring(11,13);
+				if (document.createElement('audio').canPlayType) {
+					 layerpopuper._html5SoundEventAdd(id);
+				} else {
+					layerpopuper._flashPlayerAdd(id);
+				}
+			}
+		 }
+		 
+	}); 
+}, this).attach(window, "load");
+
+
+termsJQuery("img[captureYn='N']").contextmenu(function(event) {
+	event.stopPropagation();
+	event.preventDefault();
+});
+termsJQuery("img[captureYn='n']").contextmenu(function(event) {
+	event.stopPropagation();
+	event.preventDefault();
+});
+</script>
+<script>
+</script>
+<script type="text/javascript">
+	//페이지로드, 리사이즈시 해상도 값 구해서 height 동적으로 할당
+	window.onresize = resize;
+	window.onload = resize;
+
+	function resize() {
+		var clientHeight = document.documentElement.clientHeight;
+		var wrapHeight = document.getElementById("wrap").offsetHeight;
+		var gap = clientHeight - wrapHeight;
+		var containerHeight = document.getElementById("container").offsetHeight;	
+	
+		if (wrapHeight < clientHeight) {
+			document.getElementById("container").style.height = containerHeight + gap + "px";
+		}
+	}
+
+	var ccsrv="cc.naver.com";
+	var nclk_evt = 1;
+	var gnb_service='terms';
+	var gnb_logout=encodeURIComponent('http://terms.naver.com/entry.nhn?cid=40942&categoryId=32190&docId=3404385');
+	var gnb_template='gnb_utf8';
+
+	termsJindo.$Fn(function(event) {
+		var welGnb = termsJindo.$Element(termsJindo.$("gnb"));
+		
+		if (welGnb == null) {
+			return;
+		}
+
+		var welEventElement = termsJindo.$Element(event.element);
+		if (welEventElement.isChildOf(welGnb)) {
+			return;
+		}
+		
+		if (gnbAllLayerClose != 'undefined') {
+			gnbAllLayerClose();
+		}
+	}).attach(termsJindo.$('wrap'), 'click').attach(termsJindo.$('nav'), 'click');
+</script>
+
+<script type="text/javascript">
+function toggleCategorySource(event) {
+	var elBtn = termsJindo.$Element("moreCategorySourceButton");
+	var sourceProviderLayer = termsJindo.$Element("sourceProvider");
+	
+	if (!sourceProviderLayer.hasClass("active")) {
+		sourceProviderLayer.addClass("active");
+		elBtn.html("접기");
+		
+		clickcr(elBtn.$value(), 'csa.more', '', '', event);
+	} else {
+		sourceProviderLayer.removeClass("active");
+		elBtn.html("전체펼치기");
+		
+		clickcr(elBtn.$value(), 'csa.fold', '', '', event);
+	}
+}
+
+function toggleSourceByAuthorIdBtn(event) {
+	var elBtn = termsJindo.$Element("sourceByAuthorIdMoreBtn");
+	var sourceLayer = termsJindo.$Element("sourcesByAuthorId");
+	
+	if (!sourceLayer.hasClass("active")) {
+		sourceLayer.addClass("active");
+		elBtn.html("접기");
+		
+		clickcr(this, 'rsp.unfold', '', '', event);
+	} else {
+		sourceLayer.removeClass("active");
+		elBtn.html("전체펼치기");
+		
+		clickcr(this, 'rsp.fold', '', '', event);
+	}
+}
+
+function toggleSourceInfo(event) {
+	var elLayer = termsJindo.$Element(termsJindo.$$.getSingle(".cite_area_wrap"));
+	var elBtn = termsJindo.$Element(termsJindo.$$.getSingle(".cite_area_wrap > .toggle_area > .btn_more"));
+
+	if (elBtn == null) {
+		return false;
+	}
+
+	if (elLayer == null) {
+		return false;
+	}
+
+	if (!elLayer.hasClass("active")) {
+		elLayer.addClass("active");
+		clickcr(elBtn.$value(), 'soc.more', '', '', event);
+		elBtn.html("접기<i class=\"ico\"></i>");
+	} else {
+		elLayer.removeClass("active");
+		clickcr(elBtn.$value(), 'soc.fold', '', '', event);
+		elBtn.html("더보기<i class=\"ico\"></i>");
+	}
+
+	termsJQuery(".__source_ellipsis").dotdotdot({
+		wrap: 'letter',
+		after: "a.more_link",
+		callback:function( isTruncated, orgContent ){
+			if (isTruncated) {
+				termsJQuery(this).removeClass("__source_ellipsis");				
+			}
+         }
+	});
+}
+</script>
+
+<script type="text/javascript">
+(function () {
+		var $frame = termsJQuery('#recentContentItem');
+		var $wrap  = $frame.parent();
+
+		// Call Sly on frame
+		var sly = $frame.sly({
+			horizontal: 1,
+			itemNav: 'basic',
+			smart: 1,
+// 			activateMiddle: 1,
+			startAt: 0,
+			speed: 300,
+			easing: 'easeOutExpo',
+
+			// Buttons
+			prev: $wrap.find('.prev'),
+			next: $wrap.find('.next')
+		});
+
+		var numberArea = termsJQuery(".recent_list_wrap .btn_area strong");
+		var prevBtnArea = termsJQuery(".recent_list_wrap .btn_item a.prev");
+		var nextBtnArea = termsJQuery(".recent_list_wrap .btn_item a.next");
+
+		$wrap.find(".next").on("click", function(event) {
+			var eventTargetEle = termsJQuery(event.target);
+
+			currentPage = eventTargetEle.attr("data-current-page");
+			maxPage = eventTargetEle.data("max-page");
+
+			currentPage++;
+
+			if (currentPage > maxPage) {
+				return;
+			}
+
+			numberArea.html(currentPage);
+			prevBtnArea.attr("data-current-page", currentPage);
+			nextBtnArea.attr("data-current-page", currentPage);
+		});
+
+		$wrap.find(".prev").on("click", function(event) {
+			var eventTargetEle = termsJQuery(event.target);
+
+			currentPage = eventTargetEle.attr("data-current-page");
+			maxPage = eventTargetEle.data("max-page");
+
+			currentPage--;
+
+			if (currentPage < 1) {
+				return;
+			}
+
+			numberArea.html(currentPage);
+			prevBtnArea.attr("data-current-page", currentPage);
+			nextBtnArea.attr("data-current-page", currentPage);
+		});
+}());
+
+(function () {
+		var $frame = termsJQuery('#mainListWrap');
+		var $wrap  = $frame.parent();
+
+		// Call Sly on frame
+		var sly = $frame.sly({
+			horizontal: 1,
+			itemNav: 'basic',
+			smart: 1,
+			startAt: 0,
+			speed: 300,
+			easing: 'easeOutExpo',
+			elasticBounds: 1,
+
+			// Buttons
+			prevPage: $wrap.find('.btn_prev'),
+			nextPage: $wrap.find('.btn_next')
+		});
+}());
+
+termsJQuery(".cite_area_wrap .btn_list").click(function(event) {
+	event.preventDefault();
+	var parent = termsJQuery(event.target).parent().parent().parent().parent();
+
+	parent.toggleClass("active");
+});
+
+termsJQuery("div.contents_item > a._foldBtn").click(function(event) {
+	event.preventDefault();
+	var tagName = event.target.tagName;
+
+	if (tagName == "I") {
+		var parent = termsJQuery(event.target).parent().parent().parent();
+	} else {
+		var parent = termsJQuery(event.target).parent().parent();
+	}
+	parent.toggleClass("active");
+});
+</script>
+</body>
+</html>
